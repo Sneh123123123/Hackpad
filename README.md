@@ -36,6 +36,7 @@ A compact, USB-programmable custom hackpad using the Seeed Studio XIAO MCU. This
 ## Pin Configuration Reference
 
 | Component | XIAO Pin | Description |
+|:----------|:---------|:------------|
 | **Button 1** | D1 | (Yet to Add) |
 | **Button 2** | D10 | (Yet to Add) |
 | **Button 3** | D9 | (Yet to Add) |
