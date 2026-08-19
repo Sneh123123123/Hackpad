@@ -1,0 +1,139 @@
+Cmp-Mod V01 Created by PcbNew   date = 2026-08-18T18:59:56
+
+BeginCmp
+TimeStamp = ef084982-993e-4532-a5d1-31e2dd965c89
+Path = /bd5057e9-c4c2-4bb3-a1b4-2f8896c0a635
+Reference = J1;
+ValeurCmp = Conn_01x02;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = d3001787-ad1c-4bdd-8922-19906b310a11
+Path = /67594c1b-33bd-4ddf-ac2a-c1495a3166a8
+Reference = U1;
+ValeurCmp = MOUDLE-SEEEDUINO-XIAO;
+IdModule  = Xiao 2:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM;
+EndCmp
+
+BeginCmp
+TimeStamp = 85b0c155-179c-4ae4-a2a3-64420cc017ac
+Path = /5431f871-bbb9-483c-97f8-5c187fa094a5
+Reference = U3;
+ValeurCmp = MAX98357A;
+IdModule  = Package_DFN_QFN:QFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm;
+EndCmp
+
+BeginCmp
+TimeStamp = d71ed0e7-d318-46af-bf65-624ce149425c
+Path = /786cbca2-b717-4ead-8e66-983e77dcd82c
+Reference = SW4;
+ValeurCmp = SW_Push;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 1dd0b236-dfa7-416c-bc76-244a05063ad3
+Path = /6340175c-6994-464d-a55b-c38f97384043
+Reference = SW3;
+ValeurCmp = SW_Push;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5fe0c31d-d55d-48e3-b602-347cab272af2
+Path = /4a50d9d9-deca-4885-9c5c-ec7cce2bbcc2
+Reference = SW2;
+ValeurCmp = SW_Push;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 2d0adfb6-4c38-4d7e-8695-8192d15798f9
+Path = /57b80f93-912c-4f59-a1ec-d253f582c7b1
+Reference = SW1;
+ValeurCmp = SW_Push;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 65c00023-a5cf-48ed-9d5a-1755f05d89fd
+Path = /eb794a9b-4682-417a-a643-35a25c80f889
+Reference = RV1;
+ValeurCmp = R_Potentiometer;
+IdModule  = Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = d4d61874-c6dc-4bc0-9ad2-060212d37ce5
+Path = /d60be134-4a84-439a-9331-4d2a9ce27e8d
+Reference = R4;
+ValeurCmp = 680k;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 6a4e2f13-61e5-4e63-83b4-01a87db98522
+Path = /534d272e-6e3e-4b47-a229-a445e5586be3
+Reference = R3;
+ValeurCmp = 4.7k;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = c89aeeb6-5b20-43fe-a653-b16586d06a5d
+Path = /3c6e7918-a13f-4d27-85be-d65e1ea601e1
+Reference = R2;
+ValeurCmp = 4.7k;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 2677246e-c55c-4f89-b0a8-2157dd3bc853
+Path = /ab4c2250-de79-43ee-82ff-05dc5786fc63
+Reference = R1;
+ValeurCmp = 390k;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 7add68cb-d695-46af-95f9-ce30f1e1c9ef
+Path = /52455557-f148-47de-8182-81319b75b989
+Reference = DS1;
+ValeurCmp = OLED-128O064D;
+IdModule  = Display:OLED-128O064D;
+EndCmp
+
+BeginCmp
+TimeStamp = e1546ab7-3b00-4841-b6cc-cf56f895e31b
+Path = /a7087d30-12b0-4123-9579-e7cef6c1bd07
+Reference = C4;
+ValeurCmp = 10uF;
+IdModule  = Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 4eab8420-3a5f-4398-9824-fb9111df20e1
+Path = /896c2e1a-5989-432e-bc2d-625dbf22ea12
+Reference = C3;
+ValeurCmp = 4.7uF;
+IdModule  = Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = bd89ba7b-3f84-4a6d-855c-825d5a940484
+Path = /bf839136-b34b-4621-a40b-f9ae1cef7f11
+Reference = C2;
+ValeurCmp = 1uF;
+IdModule  = Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = c6b3993d-8878-4b0e-9e1e-901aec3236d0
+Path = /05cfe697-8148-4cb7-b1d4-7e9a05529a98
+Reference = C1;
+ValeurCmp = 1uF;
+IdModule  = Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm;
+EndCmp
+
+EndListe
